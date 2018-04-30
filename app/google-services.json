@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "865632335468",
+    "firebase_url": "https://rsms-66221.firebaseio.com",
+    "project_id": "rsms-66221",
+    "storage_bucket": "rsms-66221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865632335468:android:ee630f888db89a18",
+        "android_client_info": {
+          "package_name": "com.mteam.chat_professional"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865632335468-ica54br2m1qdesqv96pbmjfq3mpsj2o6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mteam.chat_professional",
+            "certificate_hash": "bd42ebd71b51cfb6661d249ff55b182b5c754053"
+          }
+        },
+        {
+          "client_id": "865632335468-larbj16jbjrnu6olkk1e1s53famu9p94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeY4e_5UK_PHgP63MjqJqe2prE45Na6IE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865632335468-larbj16jbjrnu6olkk1e1s53famu9p94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
